@@ -27,6 +27,7 @@ int main(){
 			cout << chars[i]<<" " << letters[chars[i]] << endl;
 		}
 
+	//a comment
 
 	}
 
